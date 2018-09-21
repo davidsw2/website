@@ -44,7 +44,7 @@ h3 {
 }
 
 .hero {
-	background-image: 'PaigeFB.png';
+	background-image: url(PaigeFB.png);
   background-size: cover;
   min-width: 964px;
   min-height: 422px;
