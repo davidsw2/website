@@ -44,7 +44,7 @@ h3 {
 }
 
 .hero {
-	background-image: url("https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-2/cafe.jpg");
+	background-image: PaigeFB.png;
   background-size: cover;
   min-width: 964px;
   min-height: 422px;
